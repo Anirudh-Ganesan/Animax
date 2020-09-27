@@ -139,3 +139,7 @@ hr {
 .hoverimage {
   border-radius: 14px;
 }
+#Bio {
+  text-align: center;
+  color: #f5085f;
+}
